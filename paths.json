@@ -1,7 +1,0 @@
-{
-  "mappings": [
-    "/content/flinders-demo/:/",
-    "/content/flinders-demo/metadata:/metadata.json",
-    "/content/flinders-demo/configuration:/.helix/config.json"
-  ]
-}
